@@ -16,7 +16,8 @@
         <TextView
             android:id="@+id/resultEdit"
             android:layout_width="match_parent"
-            android:layout_height="389dp" />
+            android:layout_height="389dp"
+            android:textSize="34sp" />
 
         <LinearLayout
             android:id="@+id/ButtonRow01"
