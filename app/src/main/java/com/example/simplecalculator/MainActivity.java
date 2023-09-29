@@ -94,7 +94,6 @@ public class MainActivity extends Activity {
         eText.setText("");
     }
     public void btnDotClick(View view){
-        optr = Operator.divide;
         TextView eText = (android.widget.TextView)findViewById(R.id.resultEdit);
         eText.setText(eText.getText()+".");
     }
